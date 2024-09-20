@@ -1,0 +1,33 @@
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    margin: auto;
+    width: fit-content;
+}
+
+.btn {
+    width: 100px;
+    color: black;
+    height: 50px;
+    background-color: orange;
+}
+
+.dropdown-btn {
+    width: 260px;
+    color: black;
+    height: 50px;
+    background-color: orange;
+}
+
+.body {
+
+    background-image: url("Regioner-og-kommuner-i-danmark-kort.png");
+
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+
+}
+
